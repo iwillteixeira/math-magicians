@@ -2,6 +2,9 @@
 
 # Math Magician
 
+Main goal of this milestone was working with React components and events creating SPA.
+
+
 ![screenshot](./screenshot.png)
 
 ## Built With
@@ -13,7 +16,7 @@
 
 ### Live version
 
-- live: [Math Magician](https://iwillteixeira.github.io/math-magician/)
+There is no current live version of this app.
 
 ## Getting Started
 
