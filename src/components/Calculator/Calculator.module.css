@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+  width: 100%;
+}
+
+.calculator {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1.25fr 1.5fr 1.5fr 1.5fr 1.5fr 1.5fr;
+  width: 250px;
+  height: 350px;
+}
+
+.calculator__output {
+  grid-column: 1 / 5;
+  grid-row: 1 / 2;
+  font-size: 2rem;
+  padding: 0.1vw;
+  color: rgb(145, 145, 145);
+  background-color: #dedee2;
+  text-align: right;
+}
