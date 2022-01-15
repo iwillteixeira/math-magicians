@@ -1,0 +1,36 @@
+.header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding: 0.2rem 1.3rem;
+  background-color: #ffffff93;
+  z-index: 10;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav h1 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  color: #000;
+}
+
+.nav .pages {
+  display: flex;
+  align-items: center;
+}
+
+.nav .pages .links {
+  padding: 0 0.3rem;
+}
+
+.nav .pages .middle-link {
+  padding: 0 0.3rem;
+  border: 1px solid rgb(73, 107, 78);
+  border-top: 0;
+  border-bottom: 0;
+}

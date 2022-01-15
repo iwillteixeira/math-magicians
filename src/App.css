@@ -1,0 +1,20 @@
+.App {
+  background-image: url('/public/pngwing.com.png');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 3vw;
+  padding-top: 5vw;
+}
+
+.math {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  opacity: 0.8;
+}
