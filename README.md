@@ -18,7 +18,7 @@ Main goal of this milestone was working with React components and events creatin
 
 - live: [Github](https://iwillteixeira.github.io/math-magicians/)
 - live: [Heroku](https://math-will-microverse.herokuapp.com/)
-- live: [Netlify](https://zen-leavitt-6ceb6e.netlify.app//)
+- live: [Netlify](https://zen-leavitt-6ceb6e.netlify.app/)
 
 ## Getting Started
 
