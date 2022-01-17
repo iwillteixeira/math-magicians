@@ -16,7 +16,9 @@ Main goal of this milestone was working with React components and events creatin
 
 ### Live version
 
-There is no current live version of this app.
+- live: [Github](https://iwillteixeira.github.io/math-magicians/)
+- live: [Heroku](https://math-will-microverse.herokuapp.com/)
+- live: [Netlify](https://math-will-microverse.herokuapp.com/)
 
 ## Getting Started
 
